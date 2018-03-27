@@ -14,4 +14,4 @@
 ## Manuel Assesment ##
 **Classification:** [Tool can detect during compiletime](WarningTypeClassifications.md)
 ### Rationale ###
-This warning seems to be one that occurs very often but seems best to ignore it because it doesn't seem to indicate a real problem. The warning is for the documents indicating that the documented parameter names do not match the actual names of function parameters. So it seems like a false positive.
+This warning needs to be further analysed before making a judgement using the kernel documentation guides.
