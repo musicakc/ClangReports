@@ -9,7 +9,7 @@
 **File Location:** arch/x86/kvm/kvm_cache_regs.h
 ## History ##
 **Introduced By:** 6de4f3ada40b3 ("KVM: Cache pdptrs")  
-**Reported Since:** https://lkml.org/lkml/2018/2/26/1151
+**Reported Since:** https://lkml.org/lkml/2018/2/26/1151  
 **Resolved By:** TODO
 
 ## Manuel Assesment ##
