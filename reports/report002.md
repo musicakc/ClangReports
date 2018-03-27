@@ -3,7 +3,7 @@
 ## General ##
 **Warning Type:** Documentation   
 **Warning Explanation:**:./include/linux/rhashtable.h:702:11: warning: parameter ':' not found in the function declaration [-Wdocumentation]
- * @params:     hash table parameters
+ @params:     hash table parameters   
           ^   
 **File Location:** include/linux/rhashtable.h
 ## History ##
